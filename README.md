@@ -1,5 +1,5 @@
 # i18n
-i18n for javascript, easy use
+i18n for javascript, easy to use
 
 # How to use
 
